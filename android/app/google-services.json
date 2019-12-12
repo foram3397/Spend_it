@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390649493566",
+    "firebase_url": "https://spend-it-d530f.firebaseio.com",
+    "project_id": "spend-it-d530f",
+    "storage_bucket": "spend-it-d530f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390649493566:android:f3c871e2cde94c9d43b96f",
+        "android_client_info": {
+          "package_name": "com.spend_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390649493566-8bi7tefocrgcca4nfn264dumcou1llem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYf8p6KHm7QN1mtD1puk-LCJhbfu-GqMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390649493566-8bi7tefocrgcca4nfn264dumcou1llem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
